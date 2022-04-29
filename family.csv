@@ -1,0 +1,781 @@
+,children_count,family_status,family_members_count
+0,0,Civil marriage,2.0
+1,0,Civil marriage,1.0
+2,0,Civil marriage,5.0
+3,0,Civil marriage,3.0
+4,0,Civil marriage,4.0
+5,0,Civil marriage,6.0
+6,0,Civil marriage,15.0
+7,0,Civil marriage,7.0
+8,0,Civil marriage,20.0
+9,0,Civil marriage,9.0
+10,0,Civil marriage,11.0
+11,0,Civil marriage,14.0
+12,0,Civil marriage,8.0
+13,0,Married,2.0
+14,0,Married,1.0
+15,0,Married,5.0
+16,0,Married,3.0
+17,0,Married,4.0
+18,0,Married,6.0
+19,0,Married,15.0
+20,0,Married,7.0
+21,0,Married,20.0
+22,0,Married,9.0
+23,0,Married,11.0
+24,0,Married,14.0
+25,0,Married,8.0
+26,0,Single / not married,2.0
+27,0,Single / not married,1.0
+28,0,Single / not married,5.0
+29,0,Single / not married,3.0
+30,0,Single / not married,4.0
+31,0,Single / not married,6.0
+32,0,Single / not married,15.0
+33,0,Single / not married,7.0
+34,0,Single / not married,20.0
+35,0,Single / not married,9.0
+36,0,Single / not married,11.0
+37,0,Single / not married,14.0
+38,0,Single / not married,8.0
+39,0,Separated,2.0
+40,0,Separated,1.0
+41,0,Separated,5.0
+42,0,Separated,3.0
+43,0,Separated,4.0
+44,0,Separated,6.0
+45,0,Separated,15.0
+46,0,Separated,7.0
+47,0,Separated,20.0
+48,0,Separated,9.0
+49,0,Separated,11.0
+50,0,Separated,14.0
+51,0,Separated,8.0
+52,0,Widow,2.0
+53,0,Widow,1.0
+54,0,Widow,5.0
+55,0,Widow,3.0
+56,0,Widow,4.0
+57,0,Widow,6.0
+58,0,Widow,15.0
+59,0,Widow,7.0
+60,0,Widow,20.0
+61,0,Widow,9.0
+62,0,Widow,11.0
+63,0,Widow,14.0
+64,0,Widow,8.0
+65,1,Civil marriage,2.0
+66,1,Civil marriage,1.0
+67,1,Civil marriage,5.0
+68,1,Civil marriage,3.0
+69,1,Civil marriage,4.0
+70,1,Civil marriage,6.0
+71,1,Civil marriage,15.0
+72,1,Civil marriage,7.0
+73,1,Civil marriage,20.0
+74,1,Civil marriage,9.0
+75,1,Civil marriage,11.0
+76,1,Civil marriage,14.0
+77,1,Civil marriage,8.0
+78,1,Married,2.0
+79,1,Married,1.0
+80,1,Married,5.0
+81,1,Married,3.0
+82,1,Married,4.0
+83,1,Married,6.0
+84,1,Married,15.0
+85,1,Married,7.0
+86,1,Married,20.0
+87,1,Married,9.0
+88,1,Married,11.0
+89,1,Married,14.0
+90,1,Married,8.0
+91,1,Single / not married,2.0
+92,1,Single / not married,1.0
+93,1,Single / not married,5.0
+94,1,Single / not married,3.0
+95,1,Single / not married,4.0
+96,1,Single / not married,6.0
+97,1,Single / not married,15.0
+98,1,Single / not married,7.0
+99,1,Single / not married,20.0
+100,1,Single / not married,9.0
+101,1,Single / not married,11.0
+102,1,Single / not married,14.0
+103,1,Single / not married,8.0
+104,1,Separated,2.0
+105,1,Separated,1.0
+106,1,Separated,5.0
+107,1,Separated,3.0
+108,1,Separated,4.0
+109,1,Separated,6.0
+110,1,Separated,15.0
+111,1,Separated,7.0
+112,1,Separated,20.0
+113,1,Separated,9.0
+114,1,Separated,11.0
+115,1,Separated,14.0
+116,1,Separated,8.0
+117,1,Widow,2.0
+118,1,Widow,1.0
+119,1,Widow,5.0
+120,1,Widow,3.0
+121,1,Widow,4.0
+122,1,Widow,6.0
+123,1,Widow,15.0
+124,1,Widow,7.0
+125,1,Widow,20.0
+126,1,Widow,9.0
+127,1,Widow,11.0
+128,1,Widow,14.0
+129,1,Widow,8.0
+130,3,Civil marriage,2.0
+131,3,Civil marriage,1.0
+132,3,Civil marriage,5.0
+133,3,Civil marriage,3.0
+134,3,Civil marriage,4.0
+135,3,Civil marriage,6.0
+136,3,Civil marriage,15.0
+137,3,Civil marriage,7.0
+138,3,Civil marriage,20.0
+139,3,Civil marriage,9.0
+140,3,Civil marriage,11.0
+141,3,Civil marriage,14.0
+142,3,Civil marriage,8.0
+143,3,Married,2.0
+144,3,Married,1.0
+145,3,Married,5.0
+146,3,Married,3.0
+147,3,Married,4.0
+148,3,Married,6.0
+149,3,Married,15.0
+150,3,Married,7.0
+151,3,Married,20.0
+152,3,Married,9.0
+153,3,Married,11.0
+154,3,Married,14.0
+155,3,Married,8.0
+156,3,Single / not married,2.0
+157,3,Single / not married,1.0
+158,3,Single / not married,5.0
+159,3,Single / not married,3.0
+160,3,Single / not married,4.0
+161,3,Single / not married,6.0
+162,3,Single / not married,15.0
+163,3,Single / not married,7.0
+164,3,Single / not married,20.0
+165,3,Single / not married,9.0
+166,3,Single / not married,11.0
+167,3,Single / not married,14.0
+168,3,Single / not married,8.0
+169,3,Separated,2.0
+170,3,Separated,1.0
+171,3,Separated,5.0
+172,3,Separated,3.0
+173,3,Separated,4.0
+174,3,Separated,6.0
+175,3,Separated,15.0
+176,3,Separated,7.0
+177,3,Separated,20.0
+178,3,Separated,9.0
+179,3,Separated,11.0
+180,3,Separated,14.0
+181,3,Separated,8.0
+182,3,Widow,2.0
+183,3,Widow,1.0
+184,3,Widow,5.0
+185,3,Widow,3.0
+186,3,Widow,4.0
+187,3,Widow,6.0
+188,3,Widow,15.0
+189,3,Widow,7.0
+190,3,Widow,20.0
+191,3,Widow,9.0
+192,3,Widow,11.0
+193,3,Widow,14.0
+194,3,Widow,8.0
+195,2,Civil marriage,2.0
+196,2,Civil marriage,1.0
+197,2,Civil marriage,5.0
+198,2,Civil marriage,3.0
+199,2,Civil marriage,4.0
+200,2,Civil marriage,6.0
+201,2,Civil marriage,15.0
+202,2,Civil marriage,7.0
+203,2,Civil marriage,20.0
+204,2,Civil marriage,9.0
+205,2,Civil marriage,11.0
+206,2,Civil marriage,14.0
+207,2,Civil marriage,8.0
+208,2,Married,2.0
+209,2,Married,1.0
+210,2,Married,5.0
+211,2,Married,3.0
+212,2,Married,4.0
+213,2,Married,6.0
+214,2,Married,15.0
+215,2,Married,7.0
+216,2,Married,20.0
+217,2,Married,9.0
+218,2,Married,11.0
+219,2,Married,14.0
+220,2,Married,8.0
+221,2,Single / not married,2.0
+222,2,Single / not married,1.0
+223,2,Single / not married,5.0
+224,2,Single / not married,3.0
+225,2,Single / not married,4.0
+226,2,Single / not married,6.0
+227,2,Single / not married,15.0
+228,2,Single / not married,7.0
+229,2,Single / not married,20.0
+230,2,Single / not married,9.0
+231,2,Single / not married,11.0
+232,2,Single / not married,14.0
+233,2,Single / not married,8.0
+234,2,Separated,2.0
+235,2,Separated,1.0
+236,2,Separated,5.0
+237,2,Separated,3.0
+238,2,Separated,4.0
+239,2,Separated,6.0
+240,2,Separated,15.0
+241,2,Separated,7.0
+242,2,Separated,20.0
+243,2,Separated,9.0
+244,2,Separated,11.0
+245,2,Separated,14.0
+246,2,Separated,8.0
+247,2,Widow,2.0
+248,2,Widow,1.0
+249,2,Widow,5.0
+250,2,Widow,3.0
+251,2,Widow,4.0
+252,2,Widow,6.0
+253,2,Widow,15.0
+254,2,Widow,7.0
+255,2,Widow,20.0
+256,2,Widow,9.0
+257,2,Widow,11.0
+258,2,Widow,14.0
+259,2,Widow,8.0
+260,4,Civil marriage,2.0
+261,4,Civil marriage,1.0
+262,4,Civil marriage,5.0
+263,4,Civil marriage,3.0
+264,4,Civil marriage,4.0
+265,4,Civil marriage,6.0
+266,4,Civil marriage,15.0
+267,4,Civil marriage,7.0
+268,4,Civil marriage,20.0
+269,4,Civil marriage,9.0
+270,4,Civil marriage,11.0
+271,4,Civil marriage,14.0
+272,4,Civil marriage,8.0
+273,4,Married,2.0
+274,4,Married,1.0
+275,4,Married,5.0
+276,4,Married,3.0
+277,4,Married,4.0
+278,4,Married,6.0
+279,4,Married,15.0
+280,4,Married,7.0
+281,4,Married,20.0
+282,4,Married,9.0
+283,4,Married,11.0
+284,4,Married,14.0
+285,4,Married,8.0
+286,4,Single / not married,2.0
+287,4,Single / not married,1.0
+288,4,Single / not married,5.0
+289,4,Single / not married,3.0
+290,4,Single / not married,4.0
+291,4,Single / not married,6.0
+292,4,Single / not married,15.0
+293,4,Single / not married,7.0
+294,4,Single / not married,20.0
+295,4,Single / not married,9.0
+296,4,Single / not married,11.0
+297,4,Single / not married,14.0
+298,4,Single / not married,8.0
+299,4,Separated,2.0
+300,4,Separated,1.0
+301,4,Separated,5.0
+302,4,Separated,3.0
+303,4,Separated,4.0
+304,4,Separated,6.0
+305,4,Separated,15.0
+306,4,Separated,7.0
+307,4,Separated,20.0
+308,4,Separated,9.0
+309,4,Separated,11.0
+310,4,Separated,14.0
+311,4,Separated,8.0
+312,4,Widow,2.0
+313,4,Widow,1.0
+314,4,Widow,5.0
+315,4,Widow,3.0
+316,4,Widow,4.0
+317,4,Widow,6.0
+318,4,Widow,15.0
+319,4,Widow,7.0
+320,4,Widow,20.0
+321,4,Widow,9.0
+322,4,Widow,11.0
+323,4,Widow,14.0
+324,4,Widow,8.0
+325,5,Civil marriage,2.0
+326,5,Civil marriage,1.0
+327,5,Civil marriage,5.0
+328,5,Civil marriage,3.0
+329,5,Civil marriage,4.0
+330,5,Civil marriage,6.0
+331,5,Civil marriage,15.0
+332,5,Civil marriage,7.0
+333,5,Civil marriage,20.0
+334,5,Civil marriage,9.0
+335,5,Civil marriage,11.0
+336,5,Civil marriage,14.0
+337,5,Civil marriage,8.0
+338,5,Married,2.0
+339,5,Married,1.0
+340,5,Married,5.0
+341,5,Married,3.0
+342,5,Married,4.0
+343,5,Married,6.0
+344,5,Married,15.0
+345,5,Married,7.0
+346,5,Married,20.0
+347,5,Married,9.0
+348,5,Married,11.0
+349,5,Married,14.0
+350,5,Married,8.0
+351,5,Single / not married,2.0
+352,5,Single / not married,1.0
+353,5,Single / not married,5.0
+354,5,Single / not married,3.0
+355,5,Single / not married,4.0
+356,5,Single / not married,6.0
+357,5,Single / not married,15.0
+358,5,Single / not married,7.0
+359,5,Single / not married,20.0
+360,5,Single / not married,9.0
+361,5,Single / not married,11.0
+362,5,Single / not married,14.0
+363,5,Single / not married,8.0
+364,5,Separated,2.0
+365,5,Separated,1.0
+366,5,Separated,5.0
+367,5,Separated,3.0
+368,5,Separated,4.0
+369,5,Separated,6.0
+370,5,Separated,15.0
+371,5,Separated,7.0
+372,5,Separated,20.0
+373,5,Separated,9.0
+374,5,Separated,11.0
+375,5,Separated,14.0
+376,5,Separated,8.0
+377,5,Widow,2.0
+378,5,Widow,1.0
+379,5,Widow,5.0
+380,5,Widow,3.0
+381,5,Widow,4.0
+382,5,Widow,6.0
+383,5,Widow,15.0
+384,5,Widow,7.0
+385,5,Widow,20.0
+386,5,Widow,9.0
+387,5,Widow,11.0
+388,5,Widow,14.0
+389,5,Widow,8.0
+390,14,Civil marriage,2.0
+391,14,Civil marriage,1.0
+392,14,Civil marriage,5.0
+393,14,Civil marriage,3.0
+394,14,Civil marriage,4.0
+395,14,Civil marriage,6.0
+396,14,Civil marriage,15.0
+397,14,Civil marriage,7.0
+398,14,Civil marriage,20.0
+399,14,Civil marriage,9.0
+400,14,Civil marriage,11.0
+401,14,Civil marriage,14.0
+402,14,Civil marriage,8.0
+403,14,Married,2.0
+404,14,Married,1.0
+405,14,Married,5.0
+406,14,Married,3.0
+407,14,Married,4.0
+408,14,Married,6.0
+409,14,Married,15.0
+410,14,Married,7.0
+411,14,Married,20.0
+412,14,Married,9.0
+413,14,Married,11.0
+414,14,Married,14.0
+415,14,Married,8.0
+416,14,Single / not married,2.0
+417,14,Single / not married,1.0
+418,14,Single / not married,5.0
+419,14,Single / not married,3.0
+420,14,Single / not married,4.0
+421,14,Single / not married,6.0
+422,14,Single / not married,15.0
+423,14,Single / not married,7.0
+424,14,Single / not married,20.0
+425,14,Single / not married,9.0
+426,14,Single / not married,11.0
+427,14,Single / not married,14.0
+428,14,Single / not married,8.0
+429,14,Separated,2.0
+430,14,Separated,1.0
+431,14,Separated,5.0
+432,14,Separated,3.0
+433,14,Separated,4.0
+434,14,Separated,6.0
+435,14,Separated,15.0
+436,14,Separated,7.0
+437,14,Separated,20.0
+438,14,Separated,9.0
+439,14,Separated,11.0
+440,14,Separated,14.0
+441,14,Separated,8.0
+442,14,Widow,2.0
+443,14,Widow,1.0
+444,14,Widow,5.0
+445,14,Widow,3.0
+446,14,Widow,4.0
+447,14,Widow,6.0
+448,14,Widow,15.0
+449,14,Widow,7.0
+450,14,Widow,20.0
+451,14,Widow,9.0
+452,14,Widow,11.0
+453,14,Widow,14.0
+454,14,Widow,8.0
+455,19,Civil marriage,2.0
+456,19,Civil marriage,1.0
+457,19,Civil marriage,5.0
+458,19,Civil marriage,3.0
+459,19,Civil marriage,4.0
+460,19,Civil marriage,6.0
+461,19,Civil marriage,15.0
+462,19,Civil marriage,7.0
+463,19,Civil marriage,20.0
+464,19,Civil marriage,9.0
+465,19,Civil marriage,11.0
+466,19,Civil marriage,14.0
+467,19,Civil marriage,8.0
+468,19,Married,2.0
+469,19,Married,1.0
+470,19,Married,5.0
+471,19,Married,3.0
+472,19,Married,4.0
+473,19,Married,6.0
+474,19,Married,15.0
+475,19,Married,7.0
+476,19,Married,20.0
+477,19,Married,9.0
+478,19,Married,11.0
+479,19,Married,14.0
+480,19,Married,8.0
+481,19,Single / not married,2.0
+482,19,Single / not married,1.0
+483,19,Single / not married,5.0
+484,19,Single / not married,3.0
+485,19,Single / not married,4.0
+486,19,Single / not married,6.0
+487,19,Single / not married,15.0
+488,19,Single / not married,7.0
+489,19,Single / not married,20.0
+490,19,Single / not married,9.0
+491,19,Single / not married,11.0
+492,19,Single / not married,14.0
+493,19,Single / not married,8.0
+494,19,Separated,2.0
+495,19,Separated,1.0
+496,19,Separated,5.0
+497,19,Separated,3.0
+498,19,Separated,4.0
+499,19,Separated,6.0
+500,19,Separated,15.0
+501,19,Separated,7.0
+502,19,Separated,20.0
+503,19,Separated,9.0
+504,19,Separated,11.0
+505,19,Separated,14.0
+506,19,Separated,8.0
+507,19,Widow,2.0
+508,19,Widow,1.0
+509,19,Widow,5.0
+510,19,Widow,3.0
+511,19,Widow,4.0
+512,19,Widow,6.0
+513,19,Widow,15.0
+514,19,Widow,7.0
+515,19,Widow,20.0
+516,19,Widow,9.0
+517,19,Widow,11.0
+518,19,Widow,14.0
+519,19,Widow,8.0
+520,7,Civil marriage,2.0
+521,7,Civil marriage,1.0
+522,7,Civil marriage,5.0
+523,7,Civil marriage,3.0
+524,7,Civil marriage,4.0
+525,7,Civil marriage,6.0
+526,7,Civil marriage,15.0
+527,7,Civil marriage,7.0
+528,7,Civil marriage,20.0
+529,7,Civil marriage,9.0
+530,7,Civil marriage,11.0
+531,7,Civil marriage,14.0
+532,7,Civil marriage,8.0
+533,7,Married,2.0
+534,7,Married,1.0
+535,7,Married,5.0
+536,7,Married,3.0
+537,7,Married,4.0
+538,7,Married,6.0
+539,7,Married,15.0
+540,7,Married,7.0
+541,7,Married,20.0
+542,7,Married,9.0
+543,7,Married,11.0
+544,7,Married,14.0
+545,7,Married,8.0
+546,7,Single / not married,2.0
+547,7,Single / not married,1.0
+548,7,Single / not married,5.0
+549,7,Single / not married,3.0
+550,7,Single / not married,4.0
+551,7,Single / not married,6.0
+552,7,Single / not married,15.0
+553,7,Single / not married,7.0
+554,7,Single / not married,20.0
+555,7,Single / not married,9.0
+556,7,Single / not married,11.0
+557,7,Single / not married,14.0
+558,7,Single / not married,8.0
+559,7,Separated,2.0
+560,7,Separated,1.0
+561,7,Separated,5.0
+562,7,Separated,3.0
+563,7,Separated,4.0
+564,7,Separated,6.0
+565,7,Separated,15.0
+566,7,Separated,7.0
+567,7,Separated,20.0
+568,7,Separated,9.0
+569,7,Separated,11.0
+570,7,Separated,14.0
+571,7,Separated,8.0
+572,7,Widow,2.0
+573,7,Widow,1.0
+574,7,Widow,5.0
+575,7,Widow,3.0
+576,7,Widow,4.0
+577,7,Widow,6.0
+578,7,Widow,15.0
+579,7,Widow,7.0
+580,7,Widow,20.0
+581,7,Widow,9.0
+582,7,Widow,11.0
+583,7,Widow,14.0
+584,7,Widow,8.0
+585,9,Civil marriage,2.0
+586,9,Civil marriage,1.0
+587,9,Civil marriage,5.0
+588,9,Civil marriage,3.0
+589,9,Civil marriage,4.0
+590,9,Civil marriage,6.0
+591,9,Civil marriage,15.0
+592,9,Civil marriage,7.0
+593,9,Civil marriage,20.0
+594,9,Civil marriage,9.0
+595,9,Civil marriage,11.0
+596,9,Civil marriage,14.0
+597,9,Civil marriage,8.0
+598,9,Married,2.0
+599,9,Married,1.0
+600,9,Married,5.0
+601,9,Married,3.0
+602,9,Married,4.0
+603,9,Married,6.0
+604,9,Married,15.0
+605,9,Married,7.0
+606,9,Married,20.0
+607,9,Married,9.0
+608,9,Married,11.0
+609,9,Married,14.0
+610,9,Married,8.0
+611,9,Single / not married,2.0
+612,9,Single / not married,1.0
+613,9,Single / not married,5.0
+614,9,Single / not married,3.0
+615,9,Single / not married,4.0
+616,9,Single / not married,6.0
+617,9,Single / not married,15.0
+618,9,Single / not married,7.0
+619,9,Single / not married,20.0
+620,9,Single / not married,9.0
+621,9,Single / not married,11.0
+622,9,Single / not married,14.0
+623,9,Single / not married,8.0
+624,9,Separated,2.0
+625,9,Separated,1.0
+626,9,Separated,5.0
+627,9,Separated,3.0
+628,9,Separated,4.0
+629,9,Separated,6.0
+630,9,Separated,15.0
+631,9,Separated,7.0
+632,9,Separated,20.0
+633,9,Separated,9.0
+634,9,Separated,11.0
+635,9,Separated,14.0
+636,9,Separated,8.0
+637,9,Widow,2.0
+638,9,Widow,1.0
+639,9,Widow,5.0
+640,9,Widow,3.0
+641,9,Widow,4.0
+642,9,Widow,6.0
+643,9,Widow,15.0
+644,9,Widow,7.0
+645,9,Widow,20.0
+646,9,Widow,9.0
+647,9,Widow,11.0
+648,9,Widow,14.0
+649,9,Widow,8.0
+650,12,Civil marriage,2.0
+651,12,Civil marriage,1.0
+652,12,Civil marriage,5.0
+653,12,Civil marriage,3.0
+654,12,Civil marriage,4.0
+655,12,Civil marriage,6.0
+656,12,Civil marriage,15.0
+657,12,Civil marriage,7.0
+658,12,Civil marriage,20.0
+659,12,Civil marriage,9.0
+660,12,Civil marriage,11.0
+661,12,Civil marriage,14.0
+662,12,Civil marriage,8.0
+663,12,Married,2.0
+664,12,Married,1.0
+665,12,Married,5.0
+666,12,Married,3.0
+667,12,Married,4.0
+668,12,Married,6.0
+669,12,Married,15.0
+670,12,Married,7.0
+671,12,Married,20.0
+672,12,Married,9.0
+673,12,Married,11.0
+674,12,Married,14.0
+675,12,Married,8.0
+676,12,Single / not married,2.0
+677,12,Single / not married,1.0
+678,12,Single / not married,5.0
+679,12,Single / not married,3.0
+680,12,Single / not married,4.0
+681,12,Single / not married,6.0
+682,12,Single / not married,15.0
+683,12,Single / not married,7.0
+684,12,Single / not married,20.0
+685,12,Single / not married,9.0
+686,12,Single / not married,11.0
+687,12,Single / not married,14.0
+688,12,Single / not married,8.0
+689,12,Separated,2.0
+690,12,Separated,1.0
+691,12,Separated,5.0
+692,12,Separated,3.0
+693,12,Separated,4.0
+694,12,Separated,6.0
+695,12,Separated,15.0
+696,12,Separated,7.0
+697,12,Separated,20.0
+698,12,Separated,9.0
+699,12,Separated,11.0
+700,12,Separated,14.0
+701,12,Separated,8.0
+702,12,Widow,2.0
+703,12,Widow,1.0
+704,12,Widow,5.0
+705,12,Widow,3.0
+706,12,Widow,4.0
+707,12,Widow,6.0
+708,12,Widow,15.0
+709,12,Widow,7.0
+710,12,Widow,20.0
+711,12,Widow,9.0
+712,12,Widow,11.0
+713,12,Widow,14.0
+714,12,Widow,8.0
+715,6,Civil marriage,2.0
+716,6,Civil marriage,1.0
+717,6,Civil marriage,5.0
+718,6,Civil marriage,3.0
+719,6,Civil marriage,4.0
+720,6,Civil marriage,6.0
+721,6,Civil marriage,15.0
+722,6,Civil marriage,7.0
+723,6,Civil marriage,20.0
+724,6,Civil marriage,9.0
+725,6,Civil marriage,11.0
+726,6,Civil marriage,14.0
+727,6,Civil marriage,8.0
+728,6,Married,2.0
+729,6,Married,1.0
+730,6,Married,5.0
+731,6,Married,3.0
+732,6,Married,4.0
+733,6,Married,6.0
+734,6,Married,15.0
+735,6,Married,7.0
+736,6,Married,20.0
+737,6,Married,9.0
+738,6,Married,11.0
+739,6,Married,14.0
+740,6,Married,8.0
+741,6,Single / not married,2.0
+742,6,Single / not married,1.0
+743,6,Single / not married,5.0
+744,6,Single / not married,3.0
+745,6,Single / not married,4.0
+746,6,Single / not married,6.0
+747,6,Single / not married,15.0
+748,6,Single / not married,7.0
+749,6,Single / not married,20.0
+750,6,Single / not married,9.0
+751,6,Single / not married,11.0
+752,6,Single / not married,14.0
+753,6,Single / not married,8.0
+754,6,Separated,2.0
+755,6,Separated,1.0
+756,6,Separated,5.0
+757,6,Separated,3.0
+758,6,Separated,4.0
+759,6,Separated,6.0
+760,6,Separated,15.0
+761,6,Separated,7.0
+762,6,Separated,20.0
+763,6,Separated,9.0
+764,6,Separated,11.0
+765,6,Separated,14.0
+766,6,Separated,8.0
+767,6,Widow,2.0
+768,6,Widow,1.0
+769,6,Widow,5.0
+770,6,Widow,3.0
+771,6,Widow,4.0
+772,6,Widow,6.0
+773,6,Widow,15.0
+774,6,Widow,7.0
+775,6,Widow,20.0
+776,6,Widow,9.0
+777,6,Widow,11.0
+778,6,Widow,14.0
+779,6,Widow,8.0
